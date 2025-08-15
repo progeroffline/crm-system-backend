@@ -1,8 +1,8 @@
 {
   "name": "crm-system-backend",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
-  "author": "",
+  "author": "progeroffline",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
